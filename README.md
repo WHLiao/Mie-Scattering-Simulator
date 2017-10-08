@@ -1,1 +1,1 @@
-# A_Single_Spherical_Particle_Mie_Scattering_Light_Simulator
+# Mie_Scattering_Simulator
